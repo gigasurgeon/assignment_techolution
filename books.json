@@ -1,0 +1,20 @@
+[
+    {
+        "title": "mein kampf",
+        "author": "hitler",
+        "isbn": "12367",
+        "available": true
+    },
+    {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "isbn": "1224",
+        "available": true
+    },
+    {
+        "title": "Arabian Nights",
+        "author": "Kid Cyan",
+        "isbn": "08392\\",
+        "available": true
+    }
+]
